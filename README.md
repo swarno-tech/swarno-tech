@@ -1,6 +1,6 @@
 # Hi there, I'm Swarnabha Khamrui 👋  
 
-- 🎓 B.Tech CSE student  
+- 🎓 B.Tech CSE student at IIIT Kalyani 
 - 👨‍💻 Passionate about **Java Development & Flutter**  
 - 📚 Exploring **Data Structures & Algorithms (C++ & Java)**  
 - 🤖 Interested in **AI/ML & Backend Development**  
