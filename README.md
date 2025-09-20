@@ -17,7 +17,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)  
 
 ### 🌐 Backend & APIs  
-![Firebase](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### 🗃️ Databases  
 ![SQlite](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
