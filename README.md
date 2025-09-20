@@ -1,40 +1,32 @@
 # Hi there, I'm Swarnabha Khamrui 👋  
 
-- 🎓 Current Position: B.Tech CSE student  
+- 🎓 B.Tech CSE student  
 - 👨‍💻 Passionate about **Java Development & Flutter**  
 - 📚 Exploring **Data Structures & Algorithms (C++ & Java)**  
 - 🤖 Interested in **AI/ML & Backend Development**  
-- 📫 How to reach me: LinkedIn or Email provided below  
+- 📫 How to reach me: LinkedIn or Email below  
 
 ---
 
 # 💻 Tech Stack & Tools I Use  
 
 ### 🚀 Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Provider](https://img.shields.io/badge/Provider-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)  
 
 ### 🌐 Backend & APIs  
-#![Firebase](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
 ### 🗃️ Databases  
-![Sqllite](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### 🧰 Tools & Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ### 🧑‍💻 IDEs & Editors  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 
 ---
 
@@ -45,16 +37,14 @@
   <br>  
   <a href="https://github.com/swarno-tech/github-readme-stats"><img alt="Swarnabha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarno-tech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>  
   <a href="https://github.com/swarno-tech/github-readme-stats"><img alt="Swarnabha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarno-tech&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
-  <br/>  
-  <a href="https://github.com/swarno-tech">  
-    <img alt="Swarnabha's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=swarno-tech&theme=react-dark" />  
-  </a>  
 </div>  
 
 ---
 
-# 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swarno-tech&theme=radical)  
+# 🏆 Achievements  
+- GitHub Contributions & Projects  
+- Personal Projects in Flutter & Java  
+- DSA Practice & Competitive Programming  
 
 ---
 
